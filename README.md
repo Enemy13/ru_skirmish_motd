@@ -1,3 +1,4 @@
-## 💬 Наш Discord сервер
+<a id="Discord сервер">(https://discord.gg/TrFGYyQMMg)</>
 
-👉 **[Перейти в Discord](https://discord.gg/TrFGYyQMMg)**
+
+
