@@ -1,0 +1,1 @@
+# ru_skirmish_motd
