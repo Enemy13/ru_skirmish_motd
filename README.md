@@ -1,4 +1,4 @@
-<a id="Discord сервер">(https://discord.gg/TrFGYyQMMg)</>
+<a id="Discord сервер">https://discord.gg/TrFGYyQMMg</>
 
 
 
